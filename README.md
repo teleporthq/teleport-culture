@@ -16,6 +16,6 @@ If you are starting your first day with us, you should definitely check the [wel
 
 If you want to read more about the company culture and our mission, check the [company mission page](/our-mission.md).
 
-If you want to speak our language, we encourage you to check the [vocabulary page](/vocabulary.md). While working together we noticed the importance of "speaking the same language" and using the same words when refering to a specific concept/product/service. Therefore, the vocabulary page was created to maintain a single source of truth for every concept.
+If you want to speak our language, we encourage you to check the [vocabulary page](/vocabulary.md). While working together we noticed the importance of "speaking the same language" and using the same words when referring to a specific concept/product/service. Therefore, the vocabulary page was created to maintain a single source of truth for every concept.
 
 If you are interested in our internal coding guidelines, make sure you check the [guidelines page](/coding-guidelines.md).
