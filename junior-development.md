@@ -27,7 +27,7 @@ Learn about HTTP and HTTPS. Understand the following:
 If you want to take an in depth look of how the internet and the browsers work, follow the next articles:
 * [How the internet works](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
 * [How the internet works 2](https://www.explainthatstuff.com/internet.html)
-* [How the browsers work](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
+* [How browsers work](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 
 Additional tools we recommend:
 * [Postman](https://www.getpostman.com/)
