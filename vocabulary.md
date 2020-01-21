@@ -7,6 +7,12 @@ Because we need to speak the same language and have that common understanding of
 
 ## Glossary
 
+* [Product](#product)
+* [Process](#process)
+* [AI](#ai)
+* [Dev](#dev)
+* [Playground](#playground)
+
 ## Product
 Specific terms that we use at all levels, from business to product and tech.
 
@@ -18,13 +24,19 @@ Specific terms that we use at all levels, from business to product and tech.
 
 ### Playground
 
+### UIDL
+
 ### VisionAPI
 
 ### Vision2Teleport
 
 ## Process
 
+Terms related to our way of working and collaboration tools.
+
 ### Board
+
+### Code Review
 
 ### Daily
 
@@ -32,15 +44,21 @@ Specific terms that we use at all levels, from business to product and tech.
 
 ## AI
 
+Technical terms related to AI and ML.
+
 ### Random Forest
 
 ## Dev
+
+Technical terms related to JavaScript and Software Development/Architecture
 
 ### Domain Driven Design
 
 ### Event Sourcing
 
 ## Playground
+
+Terms which are specific for the **playground**.
 
 ### Dashboard
 
