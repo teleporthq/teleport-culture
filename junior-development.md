@@ -42,8 +42,8 @@ Additional tools we recommend:
 Before we get into frontend/backend, let's focus on the day-by-day programming language. In this case you will work with TypeScript so that you get familiar with the syntax. However, keep in mind that the concepts apply to JavaScript as well. TypeScript is just superset of JavaScript adding types and certain syntax elements, but not changing the way in which the language works.
 
 Before you start, these are two great reads:
-* https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70
-* https://overreacted.io/what-is-javascript-made-of/
+* [Modern JavaScript explained for dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)
+* [What is JavaScript made of](https://overreacted.io/what-is-javascript-made-of/)
 
 You can also get yourself familiar with the concept of programming paradigms:
 * [Impreative vs Declarative](https://tylermcginnis.com/imperative-vs-declarative-programming/)
