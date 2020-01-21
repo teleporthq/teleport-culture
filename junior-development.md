@@ -9,6 +9,11 @@ Let's get you ready for developing modern web applications. Before you start, yo
 * a code editor (eg: VSCode) with a prettier plugin
 * node >=10.11 and npm >=6.10
 
+In terms of tooling and program execution, you should get familiar with the terminal and with the concepts of processes, threads and sockets:
+* https://www.howtogeek.com/140679/beginner-geek-how-to-start-using-the-linux-terminal/
+* https://help.ubuntu.com/community/UsingTheTerminal
+* https://www.guru99.com/difference-between-process-and-thread.html
+
 ### Intro
 
 It's your first week, so we planned a couple of meetings and presentations for you, so that you start your career on the right foot. This week will be focused on assimilating some core ideas about working as a web developer, learning in general and how to wrap your head around modern web development.
