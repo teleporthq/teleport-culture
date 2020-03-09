@@ -1,6 +1,6 @@
 Here are the guidelines and details related to our process and working environment.
 
-## Tooling
+## 🛠️ Tooling
 
 We use the following day-to-day tools:
 * **Google Mail** - teleporthq.io email, which we use for all the internal tools
@@ -11,24 +11,24 @@ We use the following day-to-day tools:
 * **GitHub** - code repository and issue tracker for our open source projects
 * **Figma** - for UI designs and workflows
 
-### Security Note
+### 🔒 Security Note
 It is mandatory to use a password manager for your accounts and to enable 2FA for Gitlab, GitHub and other tools that support that.
 
 At the end of your onboarding process you should have access to all repos, run your local setups and check that everything works.
 
-## Development Guidelines
+## 🖥️ Development Guidelines
 We work as a single team, but each major task we have is connected to one of the 3 major areas or activities: **Product**, **Infrastructure** or **Research**. For research and infrastructure, the process is very flexible and the owner of each track establishes the best way to communicate and move forward with the work. The **product** activites are the core of our work and we make sure that the development pipeline is smooth at any time there. 
 
 Each major product activity has an owner from the team and that owner should have a clear status of that story/task at all times. The JIRA product board should offer relevant information about the status of each major feature as you scroll through the board.
 
-### JIRA issue types
+### 🎫 JIRA issue types
 Infra and Product tasks are tracked in JIRA. We use a system of stories and **sub-tasks** or **story-bugs** to keep everything organized by story, not by assignee or status. All JIRA tickets are identified with TELHQ-xxx.
 
 All tickets go through the same workflow: Backlog, In Analysis, Todo, In Progress, In Review, Dev Complete, Ready for QA, Stage Testing, Deploy Ready.
 
 Keep in mind to update your tasks before the daily meeting so that the board reflects the reality as much as possible.
 
-### Gitlab/GitHub Guidelines
+### 📜 Gitlab/GitHub Guidelines
 
 A few guidelines for our work with version control:
 * we work with feature branches, so for each change you want to introduce, you'll create a branch from `development`
@@ -40,7 +40,7 @@ A few guidelines for our work with version control:
 * thumbs up if all good (GitHub has approve/reject workflow) → owner can merge it
 * merge with squash, delete branch after merge
 
-### Branch names
+### 🥦 Branch names
 
 There are 3 dynamic parts in the branch name.
 
@@ -60,7 +60,7 @@ Examples:
 * fix/TELHQ-723-stage-overlay
 * ref/TELHQ-245-dependency-injection
 
-## Process
+## 🖥️ Process
 We work in a kanban-style agile, but with a very team-tailored process. You'll get quickly onboard with the process, but for now, you should keep in mind the following:
 * we have a **daily meeting** from **11:00-11:15** EEST time, everyone in gets a calendar invite for it.
 * we consider the period **11:00-13:00** EEST our **core hours**, when everyone is available for interaction and meetings, please let your team know when you are not available during the time span.
