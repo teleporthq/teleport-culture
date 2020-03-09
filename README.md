@@ -18,4 +18,4 @@ If you want to read more about the company culture and our mission, check the [c
 
 If you want to speak our language, we encourage you to check the [vocabulary page](/vocabulary.md). While working together we noticed the importance of "speaking the same language" and using the same words when referring to a specific concept/product/service. Therefore, the vocabulary page was created to maintain a single source of truth for every concept.
 
-If you are interested in our internal coding guidelines, make sure you check the [guidelines page](/coding-guidelines.md).
+If you are interested in our internal coding guidelines, make sure you check the [guidelines page](/coding-guidelines.md). Additionally, you can read about our [way of working](/way-of-working.md) on this repo.
