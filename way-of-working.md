@@ -9,6 +9,7 @@ We use the following day-to-day tools:
 * **Slack** - for all async communication
 * **Gitlab** - code repository for the internal projects
 * **GitHub** - code repository and issue tracker for our open source projects
+* **Spectrum** - for all community related communication, help and support.
 * **Figma** - for UI designs and workflows
 
 ### 🔒 Security Note
