@@ -43,6 +43,8 @@ Here are the most important things to consider:
 * You will also be invited to the teleportHQ **gitlab** organization, where we store our closed-source projects.
 * Finally, you should ask someone in the team to add you to the teleportHQ **github** organization with your personal github account, for access to the open-source projects.
 
+A more detailed descriptions of the **tools** we use and of the **work processes** can be found in the [way of working section](/way-of-working.md) of this repo.
+
 In terms of specific role tooling (eg: code editor, browsers or other applications), please ask your buddy to guide you as there's no standardized approach to this.
 
 ### 👟 Next Steps
