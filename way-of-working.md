@@ -46,7 +46,8 @@ A few guidelines for our work with version control:
 There are 3 dynamic parts in the branch name.
 
 The **prefix** is the type of task the branch is addressing and can be one of the following:
-* **fix** - bug fix
+* **fix** - fix for a found defect/bug
+* **reg** - regression fix, older defect that re-appears, missing functionality
 * **feat** - new feature added
 * **imp** - improvement to an existing feature
 * **ref** - refactoring work, no impact on the product
