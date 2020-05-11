@@ -3,7 +3,7 @@ A set of guidelines and practices we gathered along the way that ensure that our
 
 Most of the rules can be enforced by tooling, hence we have a strict working environment from this perspective:
 * We use **prettier** to format code with a standard configuration
-* We use **tslint** to enforce additional rules in TypeScript
+* We use **eslint** to enforce additional rules in TypeScript/JavaScript
 * We have a standard **tsconfig** across all projects
 * We are relying on a **precommit-hook** to validate all the rules before each git commit
 
