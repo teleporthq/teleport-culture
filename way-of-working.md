@@ -36,7 +36,7 @@ A few guidelines for our work with version control:
 * we work with feature branches, so for each change you want to introduce, you'll create a branch from `development`
 * branch name should be: prefix/TELHQ-number-title where prefix, number and title are of course dynamic. See the explanation below.
 * always put ticket link from JIRA in description on GitLab. GitHub will link with the issue automatically.
-* always put use ticket number in the name of the MR, one example will be: `Fix/telhq 1507 undo redo`
+* always put ticket number in the name of the MR, one example will be: `Fix/telhq 1507 undo redo`
 * the owner of the branch/MR should merge `development` as often as possible.
 * code reviews will be done using comments on the changes.
 * everyone should pick unassigned MRs and do the code review.
